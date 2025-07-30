@@ -92,25 +92,20 @@ sequenceDiagram
 
 ---
 
-## 📆 Entrega
+## 📋 Entrega
 
-1. **Fork do Repositório Base**
-2. **Crie uma Branch com seu Nome (snake\_case)**
+Para padronizar a entrega e facilitar a análise:
 
-   ```bash
-   git checkout -b joao_silva_souza
-   ```
-3. **Implemente e Suba o Projeto**
+1. Faça um **fork deste repositório** para sua conta pessoal do GitHub.
+2. Crie uma **branch com seu nome em snake_case** (exemplo: `joao_silva_souza`).
+3. Suba sua solução utilizando **commits organizados e descritivos**.
+4. Após finalizar:
+   - Certifique-se de que o repositório esteja **público**
+   - Envie o link do seu fork para nossa equipe com:
+     - **Título:** `Entrega - joao_silva_souza`
+     - **Descrição:** Nome completo, data da entrega e quaisquer observações que julgar relevantes.
 
-   ```bash
-   git add .
-   git commit -m "Entrega desafio frontend - João Silva Souza"
-   git push origin joao_silva_souza
-   ```
-4. **Abra um Pull Request** para a branch `main`
-
-   * Título: `Entrega - joao_silva_souza`
-   * Corpo: nome, data, observações opcionais
+> ✅ **Dica**: Você pode incluir um arquivo `THOUGHTS.md` com decisões técnicas, ideias descartadas e sugestões de melhoria.
 
 ---
 
